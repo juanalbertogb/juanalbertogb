@@ -1,16 +1,49 @@
 # Juan Alberto González Bastida
 
-## Enterprise Backend Engineer
+## Enterprise Java Backend Engineer
 
-Backend Engineer focused on enterprise backend systems, Java, Spring Boot, REST APIs, and scalable backend architecture.
+Backend Engineer with 3+ years of experience developing and maintaining enterprise banking systems in regulated production environments using Java and Spring Boot.
 
-Currently based in Aachen, Germany with experience developing and maintaining enterprise banking systems in regulated production environments.
+Focused on backend services, API-driven architectures, system reliability, and scalable backend applications.
 
+---
+
+## About Me
+
+Currently based in Aachen, Germany and legally authorized to work in Germany.
+
+Experienced in enterprise banking systems, backend services, API integrations, batch processing, production support, and CI/CD workflows supporting critical financial operations.
+
+---
+
+## Professional Highlights
+- 3+ years developing enterprise backend systems in the banking industry.
+- Experience supporting production environments handling critical financial operations.
+- Built and maintained REST and SOAP integrations between enterprise systems.
+- Participated in testing, deployments, incident investigation, and production support workflows.
+- Experience working within large-scale enterprise organizations including BBVA, Banorte, Deloitte, and Capgemini.
+
+---
+
+## Current Project
+### Backend Platform for Sports Race Management
+
+### Features
+Backend platform designed to support race administration, participant registrations, payment workflows, and operational automation.
+
+- JWT Authentication
+- Role-Based Access Control
+- Race Management
+- Registration Management
+- Payment Workflows
+- Scheduled Processes
+- Validation
+- Exception Handling
 ---
 
 ## Current Focus
 
-Currently building a backend platform for sports race management using:
+Currently developing a backend platform for sports race management focused on secure authentication, operational workflows, payment processing, and scalable backend architecture.
 
 - JWT Authentication & Role-Based Access Control
 - REST API Design
@@ -25,7 +58,7 @@ Currently building a backend platform for sports race management using:
 
 ## Core Technologies
 
-### Backend
+### Backend Engineering
 - Java
 - Spring Boot
 - Spring Framework
@@ -45,10 +78,10 @@ Currently building a backend platform for sports race management using:
 - Mockito
 - SonarQube
 
-### CI/CD & Tools
+### DevOps & Tooling
 - Jenkins
-- Git
 - Docker
+- Git
 - Bitbucket
 
 ---
@@ -57,10 +90,20 @@ Currently building a backend platform for sports race management using:
 
 - Backend Architecture
 - Scalable Systems
+- Production Reliability
 - Secure Backend Development
-- Production-Ready Applications
 - Enterprise Software Engineering
 - System Reliability & Observability
+
+---
+
+## Currently Learning
+
+- Spring Security
+- Payment Gateway Integration
+- Caching Strategies
+- System Design
+- German Language (A2 → B1)
 
 ---
 
